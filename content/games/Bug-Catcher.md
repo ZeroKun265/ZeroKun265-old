@@ -27,9 +27,9 @@ The game has a built-in tutorial level, it's incredibly short anyway, but for th
   - Reach the score and win
  
 ## Screenshots
-![[https://img.itch.zone/aW1hZ2UvMTU1MTMzOS85MDU2OTk1LnBuZw==/347x500/VttQ%2Bw.png]]
-![[https://img.itch.zone/aW1hZ2UvMTU1MTMzOS85MDYxMzQyLnBuZw==/347x500/%2BRjQFN.png]]
-![[https://img.itch.zone/aW1hZ2UvMTU1MTMzOS85MDU3MDAxLnBuZw==/347x500/XXpG95.png]]
-![[https://img.itch.zone/aW1hZ2UvMTU1MTMzOS85MDU3MDAwLnBuZw==/347x500/1cUY7O.png]]
+![[assets/BugCatcher menu screen.png]]
+![[assets/BugCatcher settings menu.png]]
+![[assets/BugCatcher win screen.png]]
+![[assets/BugCatcher lose screen.png]]
 
 <iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/1551339"><a href="https://zerokun265.itch.io/bugcatcher">BugCatcher by ZeroKun265</a></iframe>

@@ -46,9 +46,9 @@ All names and brands mentioned in the game's overview and/or troughout the game 
 Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/
 
 ## Screenshots
-![[https://img.itch.zone/aW1nLzU3ODcwMTAucG5n/original/NnARyf.png | 350]]
-![[https://img.itch.zone/aW1nLzU3ODcwMDUucG5n/original/Nd3jm%2B.png | 350]]
-![[https://img.itch.zone/aW1nLzU3ODcwMTMucG5n/original/iYo%2FO7.png | 350]]
-![[https://img.itch.zone/aW1nLzU3ODcwMTYucG5n/original/w05xpJ.png | 350]]
+![[assets/SunCore tutorial.png]]
+![[assets/SunCore level.png]]
+![[assets/SunCore bullet hell.png]]
+![[assets/SunCore end.png]]
 
 <iframe height="167" frameborder="0" src="https://itch.io/embed/1015926" width="552"><a href="https://zerokun265.itch.io/sun-core">Sun Core by ZeroKun265</a></iframe>
