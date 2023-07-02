@@ -1,27 +1,39 @@
 ---
-title: 🪴 Quartz 3.3
+title: About ZeroKun265
 enableToc: false
 ---
+# Welcome 👋
+Hi, I'm ZeroKun265, or ZeroKun.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+I am a 17yo developer and I mostly do what I feel like, I also want to become a content creator and basically whatever else comes to my mind.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+## What to See
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## Games:
+📌**Pinned:** [Sun-Core](games/Sun-Core.md)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+📌**Pinned:** [Bug-Catcher](games/Bug-Catcher.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+[[games/ | See more!]]
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Projects:
+📌**Pinned:** [Copper Rings](https://github.com/ZeroKun265/CopperRings)
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+📌**Pinned:** [Totem Of Dying](https://github.com/ZeroKun265/Totem_of_dying)
+
+[[/Projects | See more!]]
+
+## Technologies:
+📌**Pinned:** [Python](http://www.python.org/)
+
+📌**Pinned:** [Godot](http://www.godotengine.org/)
+
+[[/Technologies | See more!]]
+
+
+If you ever want to collaborate with me on some Game developement project or really any project, I'm in.
+You can contact me at zerokunbusiness@gmail.com  
+  
+### My Github stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroKun265&show_icons=true&theme=synthwave)](https://github.com/ZeroKun265)
 
